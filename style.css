@@ -1,0 +1,72 @@
+body{
+    margin: 0px;
+}
+#baner1{
+    background-color: whitesmoke;
+    text-align: left;
+    float: left;
+    width: 70%;
+    height: 150px;
+}
+#baner2{
+    background-color: whitesmoke;
+    float: left; 
+    text-align: left;
+    width: 30%;
+    height: 150px;
+}
+#lewy{
+    background-color: #dfe8e5;
+    text-align: center;
+    float: left;
+    width: 20%;
+    height: 85%;
+}
+#prawy{
+    background-color: #dfe8e5;
+    text-align: center;
+    float: left;
+    width: 80%;
+    height: 85%;
+}
+#glowny{
+    text-align: center;
+    background-color: #dfe8e5;
+    text-align: center;
+    float: left;
+    width: 100%;
+    height: 85%;
+}
+a{
+    text-decoration: none;
+    font-size: 32px;
+    color : blue;
+}
+img{
+    margin: 0px;
+    width: 150px;
+    height: 150px;
+}
+p{
+    padding: 0px;
+    margin: 0px;
+}
+#obraz1{
+    margin: 0px;
+    width: 78%;
+    height: 75%;
+}
+ul{
+    list-style: none;
+}
+#tak{
+    float: left;
+    margin-left: 50px;
+    margin-top: 30px;
+    width: 1000px;
+    height: 800px;
+}
+
+#p1{
+    font-size: 36px;
+}
